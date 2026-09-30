@@ -1,0 +1,18 @@
+# Build output
+dist/
+packages/*/dist/
+apps/*/dist/
+apps/*/storybook-static/
+
+# Dependencies
+node_modules/
+
+# Storybook
+storybook-static/
+
+# Turbo
+.turbo/
+
+# Misc
+.DS_Store
+*.log

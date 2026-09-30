@@ -1,0 +1,163 @@
+[
+  {
+    "name": "Button (named import)",
+    "path": "dist/esm/index.js",
+    "import": "{ Button }",
+    "limit": "4 kB"
+  },
+  {
+    "name": "Input (named import)",
+    "path": "dist/esm/index.js",
+    "import": "{ Input }",
+    "limit": "6 kB"
+  },
+  {
+    "name": "Textarea (named import)",
+    "path": "dist/esm/index.js",
+    "import": "{ Textarea }",
+    "limit": "5 kB"
+  },
+  {
+    "name": "Select (named import)",
+    "path": "dist/esm/index.js",
+    "import": "{ Select }",
+    "limit": "12 kB"
+  },
+  {
+    "name": "Badge (named import)",
+    "path": "dist/esm/index.js",
+    "import": "{ Badge }",
+    "limit": "3 kB"
+  },
+  {
+    "name": "Card (named import)",
+    "path": "dist/esm/index.js",
+    "import": "{ Card }",
+    "limit": "4 kB"
+  },
+  {
+    "name": "Avatar (named import)",
+    "path": "dist/esm/index.js",
+    "import": "{ Avatar }",
+    "limit": "5 kB"
+  },
+  {
+    "name": "Alert (named import)",
+    "path": "dist/esm/index.js",
+    "import": "{ Alert }",
+    "limit": "5 kB"
+  },
+  {
+    "name": "ToggleSwitch (named import)",
+    "path": "dist/esm/index.js",
+    "import": "{ ToggleSwitch }",
+    "limit": "5 kB"
+  },
+  {
+    "name": "LoginForm (named import)",
+    "path": "dist/esm/index.js",
+    "import": "{ LoginForm }",
+    "limit": "12 kB"
+  },
+  {
+    "name": "OTPForm (named import)",
+    "path": "dist/esm/index.js",
+    "import": "{ OTPForm }",
+    "limit": "10 kB"
+  },
+  {
+    "name": "Toast (named import)",
+    "path": "dist/esm/index.js",
+    "import": "{ Toast }",
+    "limit": "8 kB"
+  },
+  {
+    "name": "Pagination (named import)",
+    "path": "dist/esm/index.js",
+    "import": "{ Pagination }",
+    "limit": "6 kB"
+  },
+  {
+    "name": "DatePicker (named import)",
+    "path": "dist/esm/index.js",
+    "import": "{ DatePicker }",
+    "limit": "25 kB"
+  },
+  {
+    "name": "Tag (named import)",
+    "path": "dist/esm/index.js",
+    "import": "{ Tag }",
+    "limit": "3 kB"
+  },
+  {
+    "name": "Breadcrumb (named import)",
+    "path": "dist/esm/index.js",
+    "import": "{ Breadcrumb }",
+    "limit": "5 kB"
+  },
+  {
+    "name": "Modal (named import)",
+    "path": "dist/esm/index.js",
+    "import": "{ Modal }",
+    "limit": "12 kB"
+  },
+  {
+    "name": "Checkbox (named import)",
+    "path": "dist/esm/index.js",
+    "import": "{ Checkbox }",
+    "limit": "4 kB"
+  },
+  {
+    "name": "Radio (named import)",
+    "path": "dist/esm/index.js",
+    "import": "{ Radio }",
+    "limit": "4 kB"
+  },
+  {
+    "name": "RadioGroup (named import)",
+    "path": "dist/esm/index.js",
+    "import": "{ RadioGroup }",
+    "limit": "6 kB"
+  },
+  {
+    "name": "RangeSlider (named import)",
+    "path": "dist/esm/index.js",
+    "import": "{ RangeSlider }",
+    "limit": "10 kB"
+  },
+  {
+    "name": "Tabs (named import)",
+    "path": "dist/esm/index.js",
+    "import": "{ Tabs }",
+    "limit": "10 kB"
+  },
+  {
+    "name": "Accordion (named import)",
+    "path": "dist/esm/index.js",
+    "import": "{ Accordion }",
+    "limit": "8 kB"
+  },
+  {
+    "name": "Tooltip (named import)",
+    "path": "dist/esm/index.js",
+    "import": "{ Tooltip }",
+    "limit": "8 kB"
+  },
+  {
+    "name": "Table (named import)",
+    "path": "dist/esm/index.js",
+    "import": "{ Table }",
+    "limit": "20 kB"
+  },
+  {
+    "name": "Navbar (named import)",
+    "path": "dist/esm/index.js",
+    "import": "{ Navbar }",
+    "limit": "12 kB"
+  },
+  {
+    "name": "Full package",
+    "path": "dist/esm/index.js",
+    "limit": "120 kB"
+  }
+]
